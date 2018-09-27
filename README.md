@@ -1,2 +1,9 @@
 # hello-world
-Git Hubbing
+Git Hubbing is fun!
+### try something new
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
